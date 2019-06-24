@@ -1,0 +1,4 @@
+metodo dinamico=se necesita instanciar un objeto de la clase para usar el metodo
+objeto.metodo();
+metodo estatico=se necesita usar la clase para usar el metodo
+clase.metodo();
