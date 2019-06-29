@@ -1,0 +1,12 @@
+clase: modelo donde se redactan las caracteristicas comunes de un grupo de objetos
+objeto: instacia de una clase, tiene caracteristicas y comportamientos
+ejm:
+clase: auto
+objeto: auto suzuki, auto toyota
+    atributos:color, marca, largo, alto....
+    comportamientos:frenar, acelerar, girar....
+
+en programacion para acceder al atributo:
+    objeto.atributo=valor;
+en programacion para acceder al comportamiento:
+    objeto.metodo(variables);
