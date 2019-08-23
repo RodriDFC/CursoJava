@@ -7,6 +7,7 @@ public class Auto {
     protected int peso;
     public String marca;
     private String color;
+    private boolean asientosCuero;
     //public cualquier clase puede acceder y modificar el atributo
     //private solo la clase puede puede acceder y modificar el atributo
     //protected solo las clase dentro del paquete(carpeta) pueden accder y modificar el atributo
@@ -32,5 +33,12 @@ public class Auto {
     }
     public String getColor(){
         return color;
+    }
+
+    public boolean getAsientosCuero(){//los metodos get obtinen el valor del atributo
+        return asientosCuero;
+    }
+    public void setAsientosCuero(boolean asientosCuero){//los metodos set cambian el valor del atributo
+        this.asientosCuero=asientosCuero;
     }
 }

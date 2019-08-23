@@ -9,6 +9,7 @@
       <w>adulto</w>
       <w>altura</w>
       <w>ancho</w>
+      <w>asientos</w>
       <w>bajo</w>
       <w>basicas</w>
       <w>bucle</w>
@@ -18,12 +19,15 @@
       <w>clave</w>
       <w>condicional</w>
       <w>consola</w>
+      <w>constantes</w>
       <w>contraseña</w>
       <w>cuadrado</w>
+      <w>cuero</w>
       <w>dato</w>
       <w>datos</w>
       <w>edad</w>
       <w>elevado</w>
+      <w>empleado</w>
       <w>entrada</w>
       <w>equivocada</w>
       <w>eres</w>
@@ -57,6 +61,7 @@
       <w>rodri</w>
       <w>ruedas</w>
       <w>salida</w>
+      <w>sueldo</w>
       <w>suma</w>
       <w>suman</w>
       <w>tamaño</w>
