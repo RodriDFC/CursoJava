@@ -1,0 +1,9 @@
+aqui entra el codigo java
+expresiones: <%=  ...  %>   1 solo linea, no if, for, while....
+scriptLet:  <%   ...   %>   muchas lineas codigo java, no se declaran metodos
+declaracion <%!  ....  %>   muchas lineas codigo java, declaran metodos  //no muy usado
+importar clases:  <%@  page import="paquete.clase" %>
+
+  no es recomendable que haya muchas lineas java dentro del jsp, es mejor crear archivos java
+  y luego importalos en el jsp
+

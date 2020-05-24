@@ -8,5 +8,11 @@ public class UsoEmpleado {
         System.out.println("el empleado "+empleado.getNombre()+" fue contratado el "+empleado.getContratado());
         empleado.setSueldo(10);
         System.out.println(empleado.getSueldo());
+        System.out.println(empleado1.datos());
+        Alumno alumno=new Alumno("david","ing. sistemas");
+        Alumno alumno1=new Alumno("carola","ing. financiera");
+        System.out.println(alumno.datos());
+        System.out.println(alumno1.datos());
+        System.out.println(alumno1.getNombre());
     }
 }

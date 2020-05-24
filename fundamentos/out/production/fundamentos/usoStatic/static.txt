@@ -1,0 +1,5 @@
+una variable y metodo de tipo static se refiere a una variable/metodo statica para
+todos las instacias de una clase(variable compartida)
+(le pertenece a la clase no a los objetos)
+
+los metodos static no necesitan un objeto para ser usados

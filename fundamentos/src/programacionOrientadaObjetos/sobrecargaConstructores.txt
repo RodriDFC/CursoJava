@@ -1,0 +1,2 @@
+se puede tener varios constructores dentrol una clase,
+para diferenciarlos se toma el numero de argumentos de cada constructor

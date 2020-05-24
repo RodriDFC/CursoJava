@@ -1,0 +1,3 @@
+* no abusar de scriplet
+* modular el codigo java en clases java independientes
+* usar MVC

@@ -1,0 +1,21 @@
+polimormismo
+    una variable se comporta de manera diferente
+
+casting
+    tipoVar variable=(otroTipoVar) otraVariable;
+
+clase Final: evita que no se pueda heredar de una clase padre, haciendo que esa clase padre sea
+la ultima de la jerarquia
+    public final class Nombre{
+    }
+
+metodo final: evita que una subclase tenga un metodo con el mismo nombre que una superclase
+    public final void/tipo nombreMetodo(){
+    }
+
+abstract: una clase abstracta no se puede instanciar
+        Clase nombre=new Clase(); ----> no se puede
+        public abstract class Persona {
+        }
+    un metodo abastracto obliga a sus subclases a sobreescribir el metodo porque en cada subclase funciona diferente
+        public abstract String nombreMetodo();
