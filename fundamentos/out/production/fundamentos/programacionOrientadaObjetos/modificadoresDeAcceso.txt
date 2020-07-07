@@ -1,0 +1,4 @@
+son las palabras reservadas public, private, protected
+public: la variable, metodo es visible para todos (la clase, paquete, fuera del paquete, subclase)
+private: la variable es valida solo para la clase(no la puede usa otra clase aunque este en el mismo paquete)
+protected: la variable, metodo es visible para todas las clases dentro de el mismo paquete

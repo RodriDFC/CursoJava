@@ -1,0 +1,6 @@
+una interfaz es similar a una clase abstracta con la diferencia que se puede solucianar el problema de
+herencia
+public class Clase implements interfaz1,...{
+}
+
+una interface no se puede instanciar
